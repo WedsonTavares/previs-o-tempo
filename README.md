@@ -11,6 +11,7 @@ Busca de Dados: Ao clicar no botão de busca, o sistema consulta a API do OpenWe
 Exibição de Resultados: Os dados meteorológicos são exibidos na caixa de informações, incluindo a temperatura, condição climática e umidade.
 
 #Tecnologias Utilizadas
+
 HTML5
 
 CSS3
