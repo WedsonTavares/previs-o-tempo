@@ -46,7 +46,7 @@ function cliqueiNoBotao() {
 
 Autor
 Wedson Tavares em conjunto com a DevClub
-Linkedin: <a href="https://www.linkedin.com/in/wedsontavares/"> Flex Grid</a>
+<a href="https://www.linkedin.com/in/wedsontavares/">Linkedin</a>
 
 
 
