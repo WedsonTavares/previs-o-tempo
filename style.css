@@ -1,3 +1,5 @@
+/* style.css */
+
 * {
   margin: 0;
   padding: 0;
@@ -5,29 +7,33 @@
   font-family: "Open Sans", sans-serif;
 }
 
+/* Estilos para o corpo da página */
 body {
   background-image: url("https://source.unsplash.com/1600x900/?landscape");
   background-size: cover;
-  height: 100vh; /*ALTURA*/
-  width: 100vh; /*LARGURA*/
+  height: 100vh;
+  width: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+/* Estilos para a caixa principal */
 .caixa-maior {
   background-color: #000000;
-  opacity: 0.8; /*TRANSPARENCIA*/
-  width: 95%; /*LARGURA*/
-  max-width: 450px; /*LARGURA MAXIMA*/
+  opacity: 0.8;
+  width: 95%;
+  max-width: 450px;
   border-radius: 10px;
 }
 
+/* Estilos para o ícone da lupa */
 .lupa {
   height: 30px;
   width: 35px;
 }
 
+/* Estilos para o botão */
 button:hover {
   background-color: #7c7c7c2b;
 }
@@ -40,6 +46,7 @@ button {
   float: right;
 }
 
+/* Estilos para a entrada de texto */
 input {
   border: none;
   outline: none;
@@ -50,15 +57,17 @@ input {
   width: calc(100% - 100px);
 }
 
+/* Estilos para a caixa de informações */
 .caixa-media {
   margin-top: 20px;
   background-color: #000000;
-  max-width: 450px; /*LARGURA MAXIMA*/
+  max-width: 450px;
   border-radius: 10px;
   width: calc(100% - 100px);
   float: right;
 }
 
+/* Estilos para os elementos de texto */
 .cidade {
   color: #ffffff;
   font-size: 28px;
