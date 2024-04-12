@@ -12,7 +12,9 @@ Exibição de Resultados: Os dados meteorológicos são exibidos na caixa de inf
 
 #Tecnologias Utilizadas
 HTML5
+
 CSS3
+
 JavaScript
 
 #API Utilizada
